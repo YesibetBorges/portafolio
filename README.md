@@ -1,4 +1,4 @@
-# 💻 Yesibet Borges Yegres | Portfolio
+# 💻 Yesibet Borges Yegres | Portafolio
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -14,13 +14,11 @@
 
 Landing page responsive y moderna que muestra mi portafolio como **Estudiante de Ingeniería en Informática** en el Instituto Profesional Virginio Gómez, Concepción, Chile.
 
-Diseñado con efectos 3D, animaciones fluidas y una experiencia de usuario optimizada para todos los dispositivos.
-
 ---
 
 ## 🌐 Demo en Vivo
 
-[🚀 Ver mi Portafolio](URL_DE_TU_SITIO_AQUI)
+[🚀 Ver mi Portafolio]((https://yesibeborges.github.io/portafolio))
 
 ---
 
@@ -99,7 +97,7 @@ portfolio/
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/YesibetBorges/portfolio.git
+git clone https://github.com/YesibetBorges/portafolio.git
 
 # Entrar al directorio
 cd portfolio
@@ -170,7 +168,7 @@ Abre tu navegador en `http://localhost:8000`
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/yesibet-borges)
 - 🐙 [GitHub](https://github.com/YesibetBorges)
-- 📧 [Email](mailto:tu-email@ejemplo.com)
+- 📧 [Email](yesibet.borges@virginiogomez.cl)
 
 ---
 
